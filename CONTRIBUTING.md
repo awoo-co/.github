@@ -19,7 +19,7 @@ You can find existing issues to work on or create new ones in our [issue tracker
 
 ### License
 
-Our project is licensed under [MIT License](https://opensource.org/license/mit/). By contributing, you agree that your contributions will be licensed under the same terms.
+Our project is licensed under the [MIT License](https://opensource.org/licenses/MIT). By contributing, you agree that your contributions will be licensed under the same terms.
 
 ### Contact Information
 
