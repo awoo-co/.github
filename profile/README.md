@@ -1,3 +1,6 @@
+# some parts of this readme is still in beta
+
+
 # TeslaKitty Organization
 
 Welcome to the TeslaKitty organization on GitHub! We're a group of developers passionate about building open-source projects related to cats and other cute animals.
