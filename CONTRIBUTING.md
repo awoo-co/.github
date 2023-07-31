@@ -13,21 +13,9 @@ To get started with contributing to our project, follow these steps:
 5. Push the changes to your forked repository.
 6. Open a pull request to propose your changes for review and inclusion in the main project.
 
-### Code Style and Guidelines
-
-We follow specific code formatting and style guidelines for our project. Please refer to our [coding style guide](link-to-coding-style-guide) for more details.
-
 ### Issue Tracker
 
 You can find existing issues to work on or create new ones in our [issue tracker](https://github.com/teslakitty/issue).
-
-### Code Review and Merging
-
-All contributions will be reviewed by our team before merging into the main project.
-
-### Testing Guidelines
-
-If your contribution involves code changes, make sure to include appropriate tests. Refer to our [testing guidelines](link-to-testing-guidelines) for more information.
 
 ### License
 
