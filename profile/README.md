@@ -10,3 +10,5 @@ Welcome to the TeslaKitty organization on GitHub! We're a group of developers pa
 ## Contributing
 
 We welcome contributions from anyone who shares our passion for cats and open-source things You can contribute by submitting bug reports, feature requests, or even code changes. Check out our [contribution guidelines](CONTRIBUTING.md) to get started.
+## joining the github org
+you have to fill out this form [https://forms.gle/tXiQSw4DNStuaLkN8]
