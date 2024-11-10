@@ -9,5 +9,5 @@ Welcome to the TeslaKitty organization on GitHub! We're a group of developers pa
 - **catchat-app**: Our latest project, an app for catchat
 ## Contributing
 We welcome contributions from anyone who shares our passion for cats and open-source things You can contribute by submitting bug reports, feature requests, or even code changes. Check out our [contribution guidelines](CONTRIBUTING.md) to get started.
-## joining the github org
+## joining this github org
 you have to fill out this form [here](https://forms.gle/R4BTVzTZe2DPtLn7A) 
