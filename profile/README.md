@@ -8,7 +8,7 @@ Here are some of the things we've been working on:
 
 * **Catchat**: This is a chat app where you can talk to other people who like the same things you do! You can find it [here](https://catchat-meow.netlify.app/).
 * **TeslaKitty**: This is our main website! It's like our clubhouse on the internet, where you can learn all about our group and our projects. Check it out [here](https://teslakitty.netlify.app/).
-* **Catchat App**: We're also working on a mobile app version of Catchat, so you can chat on your phone! We'll have more news about that soon.
+* **Catchat App**: This is the Catchat Android app. Check it out [here](https://github.com/teslakitty/catchat-android/).
 
 ## Want to Help? You Can! 🌟
 
