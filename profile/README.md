@@ -1,5 +1,5 @@
 # TeslaKitty Organization 🚀
-![company picture](https://github.com/user-attachments/assets/d892034a-3536-42c2-bacd-c726a5f2b6b6)
+![Organization picture](https://github.com/user-attachments/assets/d892034a-3536-42c2-bacd-c726a5f2b6b6)
 
 Hey there! Welcome to the TeslaKitty organization on GitHub! We're a bunch of people who love building cool things together, and we're excited to share our projects with you.
 
