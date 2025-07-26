@@ -1,7 +1,9 @@
 # TeslaKitty Organization 🚀
-![Organization picture](https://github.com/user-attachments/assets/d892034a-3536-42c2-bacd-c726a5f2b6b6)
-***
-hello!!! welcome to TeslaKitty organization
-***
-**if you want to join us go to this [Link](https://forms.gle/S7bpsocyA8MuUspbA)**
-***
+
+<img width="128" height="128" alt="TeslaKitty Logo" src="https://github.com/user-attachments/assets/9b4afa8b-d56b-43c8-8302-bcc2371075b6" />
+
+Welcome to the TeslaKitty organization! We're excited you're here.
+
+Want to join our team? Fill out our application form to get started.
+
+[Join Us!](https://forms.gle/S7bpsocyA8MuUspbA)
